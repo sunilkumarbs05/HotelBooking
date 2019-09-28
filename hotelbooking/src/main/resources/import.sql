@@ -1,5 +1,0 @@
-insert into hoteldetail(city,hotelname,numberrooms,price,star) values('Bangalore','Airlines Hotel',8,1000,3.1)
-insert into hoteldetail(city,hotelname,numberrooms,price,star) values('Bangalore','Anand Bhavan Lodging',5,1800,3.9)
-insert into hoteldetail(city,hotelname,numberrooms,price,star) values('Chennai','Bombay Ananda Bhavan Hotel',17,4000,3.6)
-insert into hoteldetail(city,hotelname,numberrooms,price,star) values('Chennai','Holiday Village',2,1500,3.7)
-insert into hoteldetail(city,hotelname,numberrooms,price,star) values('Mumbai','Hotel Ajantha',6,700,3.8)
